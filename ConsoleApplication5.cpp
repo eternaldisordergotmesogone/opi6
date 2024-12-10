@@ -1,7 +1,8 @@
-﻿#include <iostream>
+#include <iostream>
 #include <Windows.h>
 #include <math.h>
 //Доданий коментар
+//second commit
 using namespace std;
 
 int main()
